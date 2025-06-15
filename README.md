@@ -1,3 +1,4 @@
+🏷️[Abrir Queries](https://github.com/JorgeRivero1/Pandas_Queries/blob/main/Pandas_Queries.md)
 # 🐼 Pandas Exercises: Querying Data
 
 ¡Bienvenido a este repositorio de ejercicios para practicar **Pandas**! 🎉 Aquí encontrarás distintos ejemplos y retos para mejorar tus habilidades en manipulación, consulta y análisis de datos usando Python y Pandas.
